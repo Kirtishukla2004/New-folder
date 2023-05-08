@@ -1,0 +1,17 @@
+""""" features of python""""""
+1)open source LANUAGEe
+2)it supports oop PROGRAMMING
+3)it supports gui (graphical user interface)
+4)high level language
+5)extensiable language
+6)easy to read 
+7)easy to code
+8)easy to debug
+9)supprts all types of paradigms
+10)portable language
+11)integrated language
+12)large standard library
+13)interpreated language
+14)frontend backend developement
+15)allocatating memory dynamically
+16)dynamically typed language

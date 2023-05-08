@@ -1,0 +1,7 @@
+reserved keyword are the special word of python programming because they have pre defined meanings 
+you sont need to import keyword because they are actually present in ever programm
+pythons buitin methods and classes are not like keyword 
+there are 35 keyword in most recent python version
+for seeing all the keyword of python 
+import keyword 
+print(keywords,kwlist)

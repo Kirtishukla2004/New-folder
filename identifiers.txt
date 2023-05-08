@@ -1,0 +1,6 @@
+so identifiers are basically all the types we use i every programm for exmaple 
+list,diction,object,class ,function are together termned as identifiers identifiers can oly be those who:
+1)identifiers are never can be a keyword 
+2)they starts with a letter or with a undrscore 
+3)identifiers are  case senitive SUM and sum are two diffrent identifiers 
+they are those who identifies the dictionory and list ,object, class function etc...

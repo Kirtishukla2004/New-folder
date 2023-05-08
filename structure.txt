@@ -1,0 +1,9 @@
+as we know the structure of python is very easy because here we dont need to write some constant things to start the PROGRAMMING
+
+like 
+#this c ode returns sum of two numbers
+ def add(a,b):
+       print("added",a+b)
+x= int(input("enter 1st number " ))
+y=x= int(input("enter 2nd number " ))
+add(x,y)

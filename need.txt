@@ -1,0 +1,19 @@
+NEED OF PYTHON :
+1)Applications :all types Applications can be developed by using python for example
+web application software developement gui games 3d applications   
+2)Multiple PROGRAMMING paradigm :continous  supports  to serval  paradigms like structured PROGRAMMING ,oop PROGRAMMING
+and also functional PROGRAMMING 
+3)Robust standard library:it has a large standard library which has many pakages  that supports in code reusablity and 
+we can use python over other languages also and here we have modules by that we will not be needed to write codes again and again 
+4)compatible with major platform and system :as it supports many operating systems with the help of python interpreaters the specific code can be run 
+5)database:python helps in accessing database easily as it supports all the databases for example:mysql ,oracle etc ...
+6)code readablity:python is a language which has easiest syntex here even we can read the code very easily 
+7)simplifies hard software development:it helps in simplifiction of hard software codes which saves time
+8)many open frameworks and tools :python is alnaguage which has many frameworks and tools to worked on which are free to use and its liabraries and 
+frameworks are free to use 
+9)adopt test driven development : python is a LANUAGE which is easily understandable and readable as well as it have easy testing and it has raised a 
+test driven development approach which makes checking and testing of softwares easiest
+10)other Applications for which python is used :it also supports many other applications like robotics, ai, color dection and face detection data science etc..
+APS   
+DTR
+COFH

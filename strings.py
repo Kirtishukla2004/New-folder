@@ -1,0 +1,17 @@
+#here we are using string and some of inbuit functions of string 
+s="kirti"
+mytuple=('a','b','c')
+print(s)
+x=s.upper()
+print(x)
+print(s.lower())
+print(s.find('t'))
+print(s.replace('k','s'))
+print(s.count('i'))
+print(s.endswith('i'))
+print(s.startswith('k'))
+print(s.center(10))
+print(s.isdigit())
+print(s.islower())
+print(s.split('k'))
+print(s.join(mytuple))
