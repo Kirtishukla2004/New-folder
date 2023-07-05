@@ -1,8 +1,3 @@
 import numpy as np 
-a=[]
-n=int(input("enter size of the array "))
-for i in range(n):
-    i=int(input("enter element "))
-    a.append(i)
-myarr=np.array(a)
-print(myarr)
+arr=np.array([[1, 2, 3], [4, 5, 6]])
+print(arr)
